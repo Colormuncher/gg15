@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/SIWY/FFXV/Royal_arms/WKatana"
+	"$bumpmap" "models/SIWY/FFXV/Royal_arms/WKatana_n"
+
+	"$rimlight" "1"
+	"$rimlightboost" "1"
+	"$rimmask" "1"
+
+	"$phong" "1"						
+	"$phongexponenttexture" "models/SIWY/FFXV/Royal_arms/WKatana_s"
+	"$phongboost"	"1" 		
+	"$phongfresnelranges"	"[.1 1 .1]"
+	 "$phongexponent "	5
+					
+}
